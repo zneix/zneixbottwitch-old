@@ -1,0 +1,9 @@
+{
+    "name": "zneixbottwitch",
+    "main": "index.js",
+    "dependencies": {
+        "enmap": "^5.1.2",
+        "fs": "0.0.1-security",
+        "tmi.js": "^1.5.0"
+    }
+}
